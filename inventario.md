@@ -1,3 +1,4 @@
 "1216746"
 "1216748"
+"processore 1"
 "schede_madri"
