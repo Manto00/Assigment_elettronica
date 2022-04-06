@@ -3,3 +3,5 @@
 "processore 1"
 "schede_madri"
 "Elettronica Padovana"
+"## componenti ##"
+
